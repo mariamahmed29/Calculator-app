@@ -17,7 +17,7 @@ A responsive calculator application with a clean and modern interface built usin
 
 ##  Live Demo
 
-https://mariamahmed29.github.io/calculator-app/
+https://mariamahmed29.github.io/Calculator-app/
 
 ## Author
 
